@@ -1,0 +1,843 @@
+Company A Statistics :
+
+1=>Depot{nativeProduct=15, externalProduct=39, Cash balance=115}
+2=>Depot{nativeProduct=15, externalProduct=39, Cash balance=213}
+3=>Depot{nativeProduct=15, externalProduct=39, Cash balance=159}
+4=>Depot{nativeProduct=15, externalProduct=39, Cash balance=306}
+5=>Depot{nativeProduct=15, externalProduct=39, Cash balance=167}
+6=>Depot{nativeProduct=15, externalProduct=39, Cash balance=158}
+7=>Depot{nativeProduct=15, externalProduct=39, Cash balance=134}
+8=>Depot{nativeProduct=15, externalProduct=38, Cash balance=143}
+9=>Depot{nativeProduct=15, externalProduct=39, Cash balance=287}
+10=>Depot{nativeProduct=15, externalProduct=39, Cash balance=129}
+11=>Depot{nativeProduct=15, externalProduct=39, Cash balance=185}
+12=>Depot{nativeProduct=15, externalProduct=39, Cash balance=145}
+13=>Depot{nativeProduct=15, externalProduct=39, Cash balance=174}
+14=>Depot{nativeProduct=15, externalProduct=39, Cash balance=93}
+15=>Depot{nativeProduct=15, externalProduct=39, Cash balance=68}
+16=>Depot{nativeProduct=15, externalProduct=39, Cash balance=246}
+17=>Depot{nativeProduct=15, externalProduct=38, Cash balance=118}
+18=>Depot{nativeProduct=16, externalProduct=38, Cash balance=216}
+19=>Depot{nativeProduct=15, externalProduct=39, Cash balance=163}
+20=>Depot{nativeProduct=16, externalProduct=39, Cash balance=174}
+21=>Depot{nativeProduct=15, externalProduct=39, Cash balance=195}
+22=>Depot{nativeProduct=17, externalProduct=38, Cash balance=123}
+23=>Depot{nativeProduct=15, externalProduct=39, Cash balance=200}
+24=>Depot{nativeProduct=15, externalProduct=39, Cash balance=318}
+25=>Depot{nativeProduct=18, externalProduct=39, Cash balance=74}
+26=>Depot{nativeProduct=15, externalProduct=39, Cash balance=271}
+27=>Depot{nativeProduct=15, externalProduct=39, Cash balance=184}
+28=>Depot{nativeProduct=17, externalProduct=37, Cash balance=222}
+29=>Depot{nativeProduct=19, externalProduct=38, Cash balance=252}
+30=>Depot{nativeProduct=15, externalProduct=38, Cash balance=190}
+31=>Depot{nativeProduct=22, externalProduct=6, Cash balance=110}
+32=>Depot{nativeProduct=36, externalProduct=28, Cash balance=85}
+33=>Depot{nativeProduct=16, externalProduct=31, Cash balance=75}
+34=>Depot{nativeProduct=39, externalProduct=37, Cash balance=64}
+35=>Depot{nativeProduct=23, externalProduct=39, Cash balance=54}
+36=>Depot{nativeProduct=36, externalProduct=39, Cash balance=70}
+37=>Depot{nativeProduct=26, externalProduct=39, Cash balance=67}
+38=>Depot{nativeProduct=32, externalProduct=21, Cash balance=59}
+39=>Depot{nativeProduct=25, externalProduct=24, Cash balance=61}
+40=>Depot{nativeProduct=38, externalProduct=22, Cash balance=89}
+41=>Depot{nativeProduct=49, externalProduct=38, Cash balance=71}
+42=>Depot{nativeProduct=28, externalProduct=23, Cash balance=54}
+43=>Depot{nativeProduct=29, externalProduct=11, Cash balance=97}
+44=>Depot{nativeProduct=20, externalProduct=25, Cash balance=93}
+45=>Depot{nativeProduct=19, externalProduct=20, Cash balance=70}
+46=>Depot{nativeProduct=44, externalProduct=23, Cash balance=58}
+47=>Depot{nativeProduct=20, externalProduct=39, Cash balance=76}
+48=>Depot{nativeProduct=15, externalProduct=35, Cash balance=72}
+49=>Depot{nativeProduct=31, externalProduct=39, Cash balance=85}
+50=>Depot{nativeProduct=31, externalProduct=24, Cash balance=79}
+Company A Transactions :
+**************************** Company A Transactions ****************************
+
+ Company[A] bought 11 native product from Company[B]
+ Company[A] bought 6 native product from Company[B]
+ Company[A] bought 2 native product from Company[B]
+ Company[A] bought 4 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 8 native product from Company[B]
+ Company[A] bought 4 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 3 native product from Company[B]
+ Company[A] bought 4 native product from Company[B]
+ Company[A] bought 12 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 4 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 10 native product from Company[B]
+ Company[A] bought 3 native product from Company[B]
+ Company[A] bought 7 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 3 native product from Company[B]
+ Company[A] bought 15 native product from Company[B]
+ Company[A] bought 3 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 11 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+ Company[A] bought 6 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 7 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 8 native product from Company[B]
+ Company[A] bought 2 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 3 native product from Company[B]
+ Company[A] bought 20 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 8 native product from Company[B]
+ Company[A] bought 11 native product from Company[B]
+ Company[A] bought 9 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 7 native product from Company[B]
+ Company[A] bought 2 native product from Company[B]
+ Company[A] bought 15 native product from Company[B]
+ Company[A] bought 2 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 2 native product from Company[B]
+ Company[A] bought 7 native product from Company[B]
+ Company[A] bought 3 native product from Company[B]
+ Company[A] bought 4 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 2 native product from Company[B]
+ Company[A] bought 18 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+ Company[A] bought 3 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 15 native product from Company[B]
+ Company[A] bought 18 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 2 native product from Company[B]
+ Company[A] bought 3 native product from Company[B]
+ Company[A] bought 6 native product from Company[B]
+ Company[A] bought 4 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 4 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+ Company[A] bought 15 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 4 native product from Company[B]
+ Company[A] bought 2 native product from Company[B]
+ Company[A] bought 3 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 13 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 5 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 7 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 3 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+ Company[A] bought 4 native product from Company[B]
+ Company[A] bought 4 native product from Company[B]
+ Company[A] bought 7 native product from Company[B]
+ Company[A] bought 2 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 6 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 10 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 2 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+ Company[A] bought 5 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 8 native product from Company[B]
+ Company[A] bought 14 native product from Company[B]
+ Company[A] bought 3 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[B]
+ Company[A] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 3 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 5 native product from Company[C]
+ Company[A] bought 6 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+ Company[A] bought 10 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 3 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 23 native product from Company[C]
+ Company[A] bought 5 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 10 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 7 native product from Company[C]
+ Company[A] bought 7 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 3 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 2 native product from Company[C]
+ Company[A] bought 5 native product from Company[C]
+ Company[A] bought 4 native product from Company[C]
+ Company[A] bought 8 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 4 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+ Company[A] bought 6 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 9 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 3 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 2 native product from Company[C]
+ Company[A] bought 5 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 2 native product from Company[C]
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 4 native product from Company[C]
+ Company[A] bought 7 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 4 native product from Company[C]
+ Company[A] bought 4 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+ Company[A] bought 5 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+ Company[A] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+ Company[A] bought 4 native product from Company[C]
+ Company[A] bought 11 native product from Company[C]
+ Company[A] bought 3 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[A] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+
+
+Company B Statistics :
+
+1=>Depot{nativeProduct=15, externalProduct=39, Cash balance=146}
+2=>Depot{nativeProduct=15, externalProduct=21, Cash balance=186}
+3=>Depot{nativeProduct=15, externalProduct=33, Cash balance=77}
+4=>Depot{nativeProduct=15, externalProduct=39, Cash balance=167}
+5=>Depot{nativeProduct=15, externalProduct=39, Cash balance=253}
+6=>Depot{nativeProduct=15, externalProduct=38, Cash balance=171}
+7=>Depot{nativeProduct=15, externalProduct=39, Cash balance=109}
+8=>Depot{nativeProduct=15, externalProduct=17, Cash balance=150}
+9=>Depot{nativeProduct=15, externalProduct=20, Cash balance=232}
+10=>Depot{nativeProduct=15, externalProduct=37, Cash balance=247}
+11=>Depot{nativeProduct=15, externalProduct=15, Cash balance=81}
+12=>Depot{nativeProduct=15, externalProduct=39, Cash balance=133}
+13=>Depot{nativeProduct=15, externalProduct=39, Cash balance=85}
+14=>Depot{nativeProduct=15, externalProduct=38, Cash balance=121}
+15=>Depot{nativeProduct=15, externalProduct=37, Cash balance=163}
+16=>Depot{nativeProduct=15, externalProduct=29, Cash balance=175}
+17=>Depot{nativeProduct=15, externalProduct=39, Cash balance=80}
+18=>Depot{nativeProduct=15, externalProduct=37, Cash balance=235}
+19=>Depot{nativeProduct=17, externalProduct=39, Cash balance=96}
+20=>Depot{nativeProduct=17, externalProduct=37, Cash balance=99}
+21=>Depot{nativeProduct=15, externalProduct=39, Cash balance=205}
+22=>Depot{nativeProduct=16, externalProduct=20, Cash balance=50}
+23=>Depot{nativeProduct=17, externalProduct=23, Cash balance=90}
+24=>Depot{nativeProduct=15, externalProduct=38, Cash balance=246}
+25=>Depot{nativeProduct=16, externalProduct=39, Cash balance=199}
+26=>Depot{nativeProduct=15, externalProduct=39, Cash balance=191}
+27=>Depot{nativeProduct=16, externalProduct=38, Cash balance=222}
+28=>Depot{nativeProduct=16, externalProduct=15, Cash balance=117}
+29=>Depot{nativeProduct=15, externalProduct=5, Cash balance=97}
+30=>Depot{nativeProduct=15, externalProduct=34, Cash balance=323}
+31=>Depot{nativeProduct=16, externalProduct=30, Cash balance=124}
+32=>Depot{nativeProduct=22, externalProduct=38, Cash balance=172}
+33=>Depot{nativeProduct=18, externalProduct=32, Cash balance=114}
+34=>Depot{nativeProduct=27, externalProduct=21, Cash balance=92}
+35=>Depot{nativeProduct=16, externalProduct=38, Cash balance=65}
+36=>Depot{nativeProduct=34, externalProduct=38, Cash balance=118}
+37=>Depot{nativeProduct=16, externalProduct=37, Cash balance=128}
+38=>Depot{nativeProduct=24, externalProduct=39, Cash balance=154}
+39=>Depot{nativeProduct=30, externalProduct=30, Cash balance=133}
+40=>Depot{nativeProduct=26, externalProduct=37, Cash balance=60}
+41=>Depot{nativeProduct=23, externalProduct=19, Cash balance=79}
+42=>Depot{nativeProduct=48, externalProduct=24, Cash balance=89}
+43=>Depot{nativeProduct=35, externalProduct=33, Cash balance=58}
+44=>Depot{nativeProduct=46, externalProduct=39, Cash balance=64}
+45=>Depot{nativeProduct=17, externalProduct=33, Cash balance=62}
+46=>Depot{nativeProduct=28, externalProduct=34, Cash balance=63}
+47=>Depot{nativeProduct=38, externalProduct=19, Cash balance=66}
+48=>Depot{nativeProduct=34, externalProduct=34, Cash balance=95}
+49=>Depot{nativeProduct=38, externalProduct=34, Cash balance=78}
+50=>Depot{nativeProduct=17, externalProduct=38, Cash balance=95}
+Company B Transactions :
+**************************** Company B Transactions ****************************
+
+ Company[B] bought 4 native product from Company[A]
+ Company[B] bought 8 native product from Company[A]
+ Company[B] bought 13 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 6 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 6 native product from Company[A]
+ Company[B] bought 3 native product from Company[A]
+ Company[B] bought 11 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 4 native product from Company[A]
+ Company[B] bought 7 native product from Company[A]
+ Company[B] bought 17 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 2 native product from Company[A]
+ Company[B] bought 3 native product from Company[A]
+ Company[B] bought 6 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 6 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 5 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 3 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 2 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 4 native product from Company[A]
+ Company[B] bought 10 native product from Company[A]
+ Company[B] bought 10 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 3 native product from Company[A]
+ Company[B] bought 6 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 9 native product from Company[A]
+ Company[B] bought 2 native product from Company[A]
+ Company[B] bought 4 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 7 native product from Company[A]
+ Company[B] bought 11 native product from Company[A]
+ Company[B] bought 4 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 4 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 6 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 2 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 2 native product from Company[A]
+ Company[B] bought 7 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 2 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 9 native product from Company[A]
+ Company[B] bought 8 native product from Company[A]
+ Company[B] bought 4 native product from Company[A]
+ Company[B] bought 10 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 12 native product from Company[A]
+ Company[B] bought 5 native product from Company[A]
+ Company[B] bought 4 native product from Company[A]
+ Company[B] bought 4 native product from Company[A]
+ Company[B] bought 2 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 3 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 2 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 8 native product from Company[A]
+ Company[B] bought 5 native product from Company[A]
+ Company[B] bought 8 native product from Company[A]
+ Company[B] bought 4 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[A]
+ Company[B] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 2 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 9 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 7 native product from Company[C]
+ Company[B] bought 10 native product from Company[C]
+ Company[B] bought 4 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 3 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 11 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 3 native product from Company[C]
+ Company[B] bought 3 native product from Company[C]
+ Company[B] bought 12 native product from Company[C]
+ Company[B] bought 4 native product from Company[C]
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 14 native product from Company[C]
+ Company[B] bought 13 native product from Company[C]
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 2 native product from Company[C]
+ Company[B] bought 4 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+ Company[B] bought 1 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 11 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+ Company[B] bought 5 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 9 native product from Company[C]
+ Company[B] bought 8 native product from Company[C]
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 1 native product from Company[C]
+ Company[B] bought 7 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 4 native product from Company[C]
+ Company[B] bought 7 native product from Company[C]
+ Company[B] bought 2 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+ Company[B] bought 6 native product from Company[C]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+
+
+Company C Statistics :
+
+1=>Depot{nativeProduct=15, externalProduct=35, Cash balance=204}
+2=>Depot{nativeProduct=15, externalProduct=37, Cash balance=98}
+3=>Depot{nativeProduct=15, externalProduct=3, Cash balance=292}
+4=>Depot{nativeProduct=15, externalProduct=19, Cash balance=122}
+5=>Depot{nativeProduct=15, externalProduct=27, Cash balance=128}
+6=>Depot{nativeProduct=15, externalProduct=38, Cash balance=179}
+7=>Depot{nativeProduct=15, externalProduct=34, Cash balance=127}
+8=>Depot{nativeProduct=15, externalProduct=27, Cash balance=171}
+9=>Depot{nativeProduct=15, externalProduct=39, Cash balance=67}
+10=>Depot{nativeProduct=15, externalProduct=34, Cash balance=68}
+11=>Depot{nativeProduct=17, externalProduct=39, Cash balance=178}
+12=>Depot{nativeProduct=15, externalProduct=17, Cash balance=265}
+13=>Depot{nativeProduct=15, externalProduct=15, Cash balance=170}
+14=>Depot{nativeProduct=15, externalProduct=28, Cash balance=267}
+15=>Depot{nativeProduct=15, externalProduct=39, Cash balance=74}
+16=>Depot{nativeProduct=15, externalProduct=19, Cash balance=252}
+17=>Depot{nativeProduct=17, externalProduct=21, Cash balance=180}
+18=>Depot{nativeProduct=19, externalProduct=26, Cash balance=182}
+19=>Depot{nativeProduct=16, externalProduct=36, Cash balance=146}
+20=>Depot{nativeProduct=16, externalProduct=37, Cash balance=271}
+21=>Depot{nativeProduct=15, externalProduct=39, Cash balance=270}
+22=>Depot{nativeProduct=16, externalProduct=32, Cash balance=94}
+23=>Depot{nativeProduct=15, externalProduct=9, Cash balance=77}
+24=>Depot{nativeProduct=15, externalProduct=33, Cash balance=147}
+25=>Depot{nativeProduct=22, externalProduct=37, Cash balance=103}
+26=>Depot{nativeProduct=21, externalProduct=39, Cash balance=135}
+27=>Depot{nativeProduct=24, externalProduct=39, Cash balance=105}
+28=>Depot{nativeProduct=22, externalProduct=32, Cash balance=80}
+29=>Depot{nativeProduct=27, externalProduct=23, Cash balance=73}
+30=>Depot{nativeProduct=41, externalProduct=3, Cash balance=85}
+31=>Depot{nativeProduct=22, externalProduct=36, Cash balance=57}
+32=>Depot{nativeProduct=42, externalProduct=18, Cash balance=81}
+33=>Depot{nativeProduct=27, externalProduct=26, Cash balance=81}
+34=>Depot{nativeProduct=16, externalProduct=26, Cash balance=81}
+35=>Depot{nativeProduct=26, externalProduct=30, Cash balance=77}
+36=>Depot{nativeProduct=25, externalProduct=39, Cash balance=86}
+37=>Depot{nativeProduct=19, externalProduct=29, Cash balance=95}
+38=>Depot{nativeProduct=45, externalProduct=38, Cash balance=61}
+39=>Depot{nativeProduct=43, externalProduct=10, Cash balance=87}
+40=>Depot{nativeProduct=37, externalProduct=22, Cash balance=83}
+41=>Depot{nativeProduct=20, externalProduct=26, Cash balance=84}
+42=>Depot{nativeProduct=34, externalProduct=31, Cash balance=73}
+43=>Depot{nativeProduct=17, externalProduct=4, Cash balance=57}
+44=>Depot{nativeProduct=24, externalProduct=37, Cash balance=82}
+45=>Depot{nativeProduct=45, externalProduct=25, Cash balance=98}
+46=>Depot{nativeProduct=41, externalProduct=30, Cash balance=70}
+47=>Depot{nativeProduct=21, externalProduct=39, Cash balance=90}
+48=>Depot{nativeProduct=35, externalProduct=36, Cash balance=77}
+49=>Depot{nativeProduct=15, externalProduct=11, Cash balance=89}
+50=>Depot{nativeProduct=23, externalProduct=27, Cash balance=64}
+Company C Transactions :
+**************************** Company C Transactions ****************************
+
+ Company[C] bought 1 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[A]
+ Company[C] bought 7 native product from Company[A]
+ Company[C] bought 10 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 4 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 6 native product from Company[A]
+ Company[C] bought 9 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 2 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[A]
+ Company[C] bought 3 native product from Company[A]
+ Company[C] bought 15 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 4 native product from Company[A]
+ Company[C] bought 2 native product from Company[A]
+ Company[C] bought 5 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+ Company[C] bought 5 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+ Company[C] bought 2 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 3 native product from Company[A]
+ Company[C] bought 19 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 3 native product from Company[A]
+ Company[C] bought 3 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[A]
+ Company[C] bought 6 native product from Company[A]
+ Company[C] bought 9 native product from Company[A]
+ Company[C] bought 2 native product from Company[A]
+ Company[C] bought 2 native product from Company[A]
+ Company[C] bought 4 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 3 native product from Company[A]
+ Company[C] bought 20 native product from Company[A]
+ Company[C] bought 4 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 2 native product from Company[A]
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 3 native product from Company[A]
+ Company[C] bought 4 native product from Company[A]
+ Company[C] bought 5 native product from Company[A]
+ Company[C] bought 9 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 7 native product from Company[A]
+ Company[C] bought 5 native product from Company[A]
+ Company[C] bought 2 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 21 native product from Company[A]
+ Company[C] bought 3 native product from Company[A]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 3 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 2 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[B]
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 2 native product from Company[B]
+ Company[C] bought 1 native product from Company[B]
+ Company[C] bought 15 native product from Company[B]
+ Company[C] bought 2 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 3 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 2 native product from Company[B]
+ Company[C] bought 2 native product from Company[B]
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[B]
+ Company[C] bought 3 native product from Company[B]
+ Company[C] bought 6 native product from Company[B]
+ Company[C] bought 6 native product from Company[B]
+ Company[C] bought 9 native product from Company[B]
+ Company[C] bought 1 native product from Company[B]
+ Company[C] bought 3 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 4 native product from Company[B]
+ Company[C] bought 4 native product from Company[B]
+ Company[C] bought 12 native product from Company[B]
+ Company[C] bought 2 native product from Company[B]
+ Company[C] bought 1 native product from Company[B]
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[B]
+ Company[C] bought 2 native product from Company[B]
+ Company[C] bought 4 native product from Company[B]
+ Company[C] bought 3 native product from Company[B]
+ Company[C] bought 7 native product from Company[B]
+ Company[C] bought 2 native product from Company[B]
+ Company[C] bought 4 native product from Company[B]
+ Company[C] bought 2 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 5 native product from Company[B]
+ Company[C] bought 10 native product from Company[B]
+ Company[C] bought 17 native product from Company[B]
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 2 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 1 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+ Company[C] bought 6 native product from Company[B]
+ Company[C] bought 21 native product from Company[B]
+ Company[C] bought 4 native product from Company[B]
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
+Current depot foreign stock has reached it's limit.
